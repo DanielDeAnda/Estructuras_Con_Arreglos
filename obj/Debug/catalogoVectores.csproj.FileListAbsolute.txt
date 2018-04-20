@@ -1,0 +1,25 @@
+C:\Users\jufid\Desktop\Estructura de datos\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.csprojResolveAssemblyReference.cache
+C:\Users\jufid\Desktop\Estructura de datos\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.Form1.resources
+C:\Users\jufid\Desktop\Estructura de datos\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.Properties.Resources.resources
+C:\Users\jufid\Desktop\Estructura de datos\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.csproj.GenerateResource.Cache
+C:\Users\jufid\Desktop\Estructura de datos\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.csproj.CoreCompileInputs.cache
+C:\Users\tona_\Downloads\catalogoVectores\catalogoVectores\bin\Debug\catalogoVectores.exe.config
+C:\Users\tona_\Downloads\catalogoVectores\catalogoVectores\bin\Debug\catalogoVectores.exe
+C:\Users\tona_\Downloads\catalogoVectores\catalogoVectores\bin\Debug\catalogoVectores.pdb
+C:\Users\tona_\Downloads\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.csprojResolveAssemblyReference.cache
+C:\Users\tona_\Downloads\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.Form1.resources
+C:\Users\tona_\Downloads\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.Properties.Resources.resources
+C:\Users\tona_\Downloads\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.csproj.GenerateResource.Cache
+C:\Users\tona_\Downloads\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.csproj.CoreCompileInputs.cache
+C:\Users\tona_\Downloads\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.exe
+C:\Users\tona_\Downloads\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.pdb
+C:\Users\jufid\Desktop\Estructura de datos\Completos\catalogoVectores\catalogoVectores\bin\Debug\catalogoVectores.exe.config
+C:\Users\jufid\Desktop\Estructura de datos\Completos\catalogoVectores\catalogoVectores\bin\Debug\catalogoVectores.exe
+C:\Users\jufid\Desktop\Estructura de datos\Completos\catalogoVectores\catalogoVectores\bin\Debug\catalogoVectores.pdb
+C:\Users\jufid\Desktop\Estructura de datos\Completos\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.csprojResolveAssemblyReference.cache
+C:\Users\jufid\Desktop\Estructura de datos\Completos\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.Form1.resources
+C:\Users\jufid\Desktop\Estructura de datos\Completos\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.Properties.Resources.resources
+C:\Users\jufid\Desktop\Estructura de datos\Completos\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.csproj.GenerateResource.Cache
+C:\Users\jufid\Desktop\Estructura de datos\Completos\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.csproj.CoreCompileInputs.cache
+C:\Users\jufid\Desktop\Estructura de datos\Completos\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.exe
+C:\Users\jufid\Desktop\Estructura de datos\Completos\catalogoVectores\catalogoVectores\obj\Debug\catalogoVectores.pdb
